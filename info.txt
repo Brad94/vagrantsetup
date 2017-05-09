@@ -1,0 +1,8 @@
+Install vagrant
+Install Virtualbox
+
+vagrant init
+
+vm box into C:\Users\Administrator\.vagrant.d\boxes
+
+192.168.1.204
