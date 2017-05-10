@@ -1,3 +1,10 @@
+#Virtualbox manual start, when defining shared folder in settings need use Devices 
+
+-> Install Guest Addition
+then -> sudo mount -t vboxsf share /home/shared
+
+#Vagrant
+
 Install vagrant
 Install Virtualbox
 
